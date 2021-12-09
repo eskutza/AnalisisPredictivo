@@ -1,0 +1,101 @@
+,Factura,Ciudad,Tipo_cliente,Genero,Linea_producto,Precio_unidad,Cantidad,Impuesto,Total,Forma_pago,Coste,Calificacion,Fecha2,Dia,Jornada,Horario,Calificacion2,ISG,Anomaly,Anomaly_Score,Cluster
+0,631-41-3108,Yangon,Normal,Hombre,Home and lifestyle,46.33,7,16.2155,340.5255,Credit card,324.31,7.4,2019-03-03,Sunday,Festivo,Mañana,Neutros,0,0,-0.03883988394035809,Cluster 0
+1,765-26-6951,Yangon,Normal,Hombre,Sports and travel,72.61,6,21.783,457.443,Credit card,435.66,6.9,2019-01-01,Tuesday,Laboral,Mañana,Neutros,0,0,-0.02229941140194069,Cluster 0
+2,777-82-7220,Mandalay,Miembro,Hombre,Home and lifestyle,30.12,8,12.048,253.008,Cash,240.96,7.7,2019-03-03,Sunday,Festivo,Mañana,Neutros,0,0,-0.02944638399538635,Cluster 0
+3,727-46-3608,Mandalay,Miembro,Mujer,Food and beverages,20.01,9,9.0045,189.0945,Ewallet,180.09,4.1,2019-02-06,Wednesday,Laboral,Tarde,Detractores,-100,0,-0.026407673639678,Cluster 1
+4,162-48-8011,Yangon,Miembro,Mujer,Food and beverages,44.59,5,11.1475,234.0975,Cash,222.95,8.5,2019-02-10,Sunday,Festivo,Tarde,Promotores,100,0,-0.03256056387121764,Cluster 1
+5,232-11-3025,Yangon,Normal,Hombre,Sports and travel,78.77,10,39.385,827.085,Cash,787.7,6.4,2019-01-24,Thursday,Laboral,Mañana,Detractores,-100,0,-0.010236902949732118,Cluster 0
+6,841-35-6630,Naypyitaw,Normal,Mujer,Electronic accessories,75.91,6,22.773000000000003,478.233,Cash,455.46,8.7,2019-03-09,Saturday,Laboral,Noche,Promotores,100,0,-0.03064274890688279,Cluster 2
+7,766-85-7061,Mandalay,Normal,Hombre,Health and beauty,87.87,10,43.935,922.635,Ewallet,878.7,5.1,2019-03-29,Friday,Laboral,Mañana,Detractores,-100,0,-0.0061925878446541524,Cluster 0
+8,865-92-6136,Yangon,Normal,Hombre,Food and beverages,52.75,3,7.9125,166.1625,Ewallet,158.25,9.3,2019-03-23,Saturday,Laboral,Mañana,Promotores,100,0,-0.036362448902488416,Cluster 0
+9,733-01-9107,Mandalay,Normal,Hombre,Home and lifestyle,82.7,6,24.81,521.01,Cash,496.2,7.4,2019-03-05,Tuesday,Laboral,Noche,Neutros,0,0,-0.025442404527559196,Cluster 2
+10,628-34-3388,Naypyitaw,Normal,Hombre,Fashion accessories,27.38,6,8.214,172.49400000000003,Credit card,164.28,7.9,2019-01-05,Saturday,Laboral,Noche,Neutros,0,0,-0.03229276694573835,Cluster 2
+11,210-67-5886,Naypyitaw,Miembro,Mujer,Health and beauty,98.21,3,14.7315,309.3615,Credit card,294.63,7.8,2019-02-05,Tuesday,Laboral,Mañana,Neutros,0,0,-0.01366972072023065,Cluster 0
+12,645-44-1170,Yangon,Miembro,Hombre,Home and lifestyle,58.07,9,26.1315,548.7615,Ewallet,522.63,4.3,2019-01-19,Saturday,Laboral,Noche,Detractores,-100,0,-0.0205644748790903,Cluster 2
+13,336-78-2147,Naypyitaw,Miembro,Hombre,Home and lifestyle,63.91,8,25.564,536.844,Credit card,511.28,4.6,2019-03-13,Wednesday,Laboral,Noche,Detractores,-100,0,-0.006629519083484857,Cluster 2
+14,549-84-7482,Mandalay,Normal,Mujer,Sports and travel,90.28,9,40.626,853.1460000000002,Ewallet,812.52,7.2,2019-02-08,Friday,Laboral,Mañana,Neutros,0,0,-0.02338602137723977,Cluster 0
+15,597-78-7908,Naypyitaw,Normal,Hombre,Fashion accessories,90.22,3,13.533,284.193,Cash,270.66,6.2,2019-02-18,Monday,Laboral,Noche,Detractores,-100,0,-0.02154899565886781,Cluster 2
+16,685-64-1609,Yangon,Miembro,Mujer,Fashion accessories,30.14,10,15.07,316.47,Ewallet,301.4,9.2,2019-02-10,Sunday,Festivo,Mañana,Promotores,100,0,-0.020451199596607798,Cluster 0
+17,400-89-4171,Naypyitaw,Normal,Mujer,Sports and travel,80.97,8,32.388000000000005,680.148,Cash,647.76,9.3,2019-01-28,Monday,Laboral,Mañana,Promotores,100,0,-0.012451544579662466,Cluster 0
+18,743-04-1105,Mandalay,Miembro,Hombre,Health and beauty,97.22,9,43.749,918.729,Ewallet,874.98,6.0,2019-03-30,Saturday,Laboral,Tarde,Detractores,-100,1,0.0065976708521611185,Cluster 1
+19,175-54-2529,Yangon,Miembro,Hombre,Food and beverages,22.17,8,8.868,186.228,Credit card,177.36,9.6,2019-03-03,Sunday,Festivo,Tarde,Promotores,100,0,-0.033679019171170665,Cluster 1
+20,130-98-8941,Naypyitaw,Normal,Hombre,Fashion accessories,64.26,7,22.491,472.311,Cash,449.82,5.7,2019-02-09,Saturday,Laboral,Mañana,Detractores,-100,0,-0.041757233039374064,Cluster 0
+21,305-14-0245,Mandalay,Miembro,Mujer,Home and lifestyle,94.49,8,37.796,793.716,Ewallet,755.92,7.5,2019-03-03,Sunday,Festivo,Noche,Neutros,0,0,-0.001992517131607085,Cluster 2
+22,573-58-9734,Mandalay,Normal,Mujer,Fashion accessories,30.37,3,4.5555,95.6655,Ewallet,91.11,5.1,2019-03-28,Thursday,Laboral,Mañana,Detractores,-100,0,-0.027025633533661275,Cluster 0
+23,656-16-1063,Mandalay,Normal,Hombre,Sports and travel,46.42,3,6.962999999999999,146.22299999999996,Credit card,139.26,4.4,2019-01-04,Friday,Festivo,Mañana,Detractores,-100,0,-0.034463852126423784,Cluster 0
+24,891-58-8335,Mandalay,Miembro,Mujer,Sports and travel,29.61,7,10.3635,217.6335,Cash,207.27,6.5,2019-03-11,Monday,Laboral,Tarde,Neutros,0,0,-0.0254598125242389,Cluster 1
+25,213-72-6612,Yangon,Normal,Hombre,Food and beverages,43.25,2,4.325,90.825,Cash,86.5,6.2,2019-03-20,Wednesday,Laboral,Tarde,Detractores,-100,0,-0.016859165755991,Cluster 1
+26,376-02-8238,Mandalay,Normal,Hombre,Home and lifestyle,93.87,8,37.548,788.508,Credit card,750.96,8.3,2019-02-02,Saturday,Laboral,Noche,Neutros,0,1,0.011156484683032541,Cluster 2
+27,290-68-2984,Yangon,Normal,Hombre,Home and lifestyle,23.75,4,4.75,99.75,Cash,95.0,5.2,2019-03-16,Saturday,Laboral,Mañana,Detractores,-100,0,-0.02757669437769428,Cluster 0
+28,110-48-7033,Mandalay,Miembro,Hombre,Fashion accessories,32.62,4,6.524,137.004,Cash,130.48,9.0,2019-01-29,Tuesday,Laboral,Tarde,Promotores,100,0,-0.026256699528334648,Cluster 1
+29,687-15-1097,Naypyitaw,Miembro,Mujer,Health and beauty,21.12,2,2.112,44.352,Cash,42.24,9.7,2019-01-03,Thursday,Laboral,Noche,Promotores,100,1,0.004634098863182334,Cluster 2
+30,139-20-0155,Mandalay,Miembro,Hombre,Electronic accessories,40.3,10,20.15,423.15,Credit card,403.0,7.0,2019-01-24,Thursday,Laboral,Tarde,Neutros,0,0,-0.015774329752311744,Cluster 1
+31,411-77-0180,Yangon,Miembro,Hombre,Electronic accessories,72.2,7,25.27,530.67,Ewallet,505.4,4.3,2019-03-26,Tuesday,Laboral,Noche,Detractores,-100,0,-0.02664735627089088,Cluster 2
+32,372-94-8041,Yangon,Normal,Hombre,Health and beauty,15.26,6,4.578,96.138,Ewallet,91.56,9.8,2019-02-15,Friday,Laboral,Noche,Promotores,100,0,-0.002151175748583367,Cluster 2
+33,374-17-3652,Mandalay,Miembro,Mujer,Food and beverages,42.82,9,19.269,404.649,Credit card,385.38,8.9,2019-02-05,Tuesday,Laboral,Tarde,Promotores,100,0,-0.02753123435529603,Cluster 1
+34,378-07-7001,Mandalay,Miembro,Hombre,Electronic accessories,48.09,3,7.2135,151.4835,Credit card,144.27,7.8,2019-02-10,Sunday,Festivo,Noche,Neutros,0,0,-0.036954140090400434,Cluster 2
+35,554-42-2417,Naypyitaw,Normal,Mujer,Sports and travel,95.44,10,47.72,1002.12,Cash,954.4,5.2,2019-01-09,Wednesday,Laboral,Mañana,Detractores,-100,1,0.0008557000655150526,Cluster 0
+36,453-63-6187,Mandalay,Normal,Hombre,Electronic accessories,27.5,3,4.125,86.625,Ewallet,82.5,6.5,2019-03-01,Friday,Laboral,Tarde,Neutros,0,0,-0.03491665055367832,Cluster 1
+37,578-80-7669,Mandalay,Normal,Hombre,Sports and travel,74.97,1,3.7485,78.7185,Cash,74.97,5.6,2019-03-16,Saturday,Laboral,Tarde,Detractores,-100,0,-0.0277640404240922,Cluster 1
+38,834-25-9262,Naypyitaw,Normal,Mujer,Fashion accessories,81.68,4,16.336,343.056,Cash,326.72,9.1,2019-01-06,Sunday,Festivo,Mañana,Promotores,100,0,-0.026673746392719574,Cluster 0
+39,261-12-8671,Mandalay,Normal,Mujer,Fashion accessories,60.96,2,6.096,128.016,Credit card,121.92,4.9,2019-01-25,Friday,Laboral,Noche,Detractores,-100,0,-0.03607206333264723,Cluster 2
+40,289-15-7034,Yangon,Miembro,Hombre,Sports and travel,82.33,4,16.465999999999998,345.786,Credit card,329.32,7.5,2019-01-11,Friday,Laboral,Mañana,Neutros,0,0,-0.039310348958820907,Cluster 0
+41,868-52-7573,Mandalay,Normal,Mujer,Food and beverages,99.69,5,24.9225,523.3725,Cash,498.45,9.9,2019-01-14,Monday,Laboral,Mañana,Promotores,100,0,-0.01680377934039523,Cluster 0
+42,541-89-9860,Naypyitaw,Miembro,Mujer,Fashion accessories,80.48,3,12.072,253.512,Cash,241.44,8.1,2019-02-15,Friday,Laboral,Mañana,Neutros,0,0,-0.0385477442753791,Cluster 0
+43,885-17-6250,Yangon,Normal,Mujer,Health and beauty,79.74,1,3.987,83.727,Ewallet,79.74,7.3,2019-03-06,Wednesday,Laboral,Mañana,Neutros,0,0,-0.02950047019709678,Cluster 0
+44,372-26-1506,Naypyitaw,Normal,Mujer,Fashion accessories,23.82,5,5.955,125.055,Ewallet,119.1,5.4,2019-01-28,Monday,Laboral,Noche,Detractores,-100,0,-0.024512202038960318,Cluster 2
+45,569-71-4390,Mandalay,Normal,Hombre,Sports and travel,21.87,2,2.187,45.927,Ewallet,43.74,6.9,2019-01-25,Friday,Laboral,Tarde,Neutros,0,0,-0.03669333698076172,Cluster 1
+46,848-07-1692,Mandalay,Normal,Mujer,Health and beauty,57.22,2,5.722,120.162,Ewallet,114.44,8.3,2019-01-12,Saturday,Laboral,Tarde,Neutros,0,0,-0.030797295666885383,Cluster 1
+47,266-76-6436,Naypyitaw,Miembro,Mujer,Food and beverages,38.6,3,5.79,121.59,Ewallet,115.8,7.5,2019-03-28,Thursday,Laboral,Mañana,Neutros,0,0,-0.03298115913813415,Cluster 0
+48,837-55-7229,Mandalay,Normal,Mujer,Fashion accessories,47.44,1,2.372,49.812,Credit card,47.44,6.8,2019-02-22,Friday,Laboral,Noche,Neutros,0,0,-0.034991233402849486,Cluster 2
+49,744-09-5786,Mandalay,Normal,Hombre,Electronic accessories,22.01,6,6.603,138.66299999999998,Cash,132.06,7.6,2019-01-02,Wednesday,Laboral,Noche,Neutros,0,0,-0.02746252740981836,Cluster 2
+50,878-30-2331,Naypyitaw,Miembro,Mujer,Sports and travel,54.55,10,27.275,572.775,Credit card,545.5,7.1,2019-03-02,Saturday,Festivo,Mañana,Neutros,0,0,-0.032326089205152675,Cluster 0
+51,493-65-6248,Naypyitaw,Miembro,Mujer,Sports and travel,36.98,10,18.49,388.29,Credit card,369.8,7.0,2019-01-01,Tuesday,Laboral,Noche,Neutros,0,0,-0.0218594167216426,Cluster 2
+52,511-54-3087,Mandalay,Normal,Hombre,Sports and travel,88.45,1,4.4225,92.8725,Credit card,88.45,9.5,2019-02-25,Monday,Laboral,Tarde,Promotores,100,0,-0.010945442680468376,Cluster 1
+53,347-72-6115,Mandalay,Miembro,Mujer,Sports and travel,90.74,7,31.759,666.939,Credit card,635.18,6.2,2019-01-16,Wednesday,Laboral,Noche,Detractores,-100,0,-0.016514869037943747,Cluster 2
+54,189-52-0236,Yangon,Normal,Hombre,Electronic accessories,99.55,7,34.8425,731.6925,Cash,696.85,7.6,2019-03-14,Thursday,Laboral,Mañana,Neutros,0,0,-0.02013352402461244,Cluster 0
+55,287-83-1405,Yangon,Normal,Hombre,Health and beauty,25.43,6,7.629,160.209,Ewallet,152.58,7.0,2019-02-12,Tuesday,Festivo,Noche,Neutros,0,0,-0.02985034787272633,Cluster 2
+56,643-38-7867,Yangon,Normal,Hombre,Home and lifestyle,97.94,1,4.897,102.837,Ewallet,97.94,6.9,2019-03-07,Thursday,Laboral,Mañana,Neutros,0,0,-0.018621312923995048,Cluster 0
+57,841-18-8232,Mandalay,Normal,Mujer,Food and beverages,71.2,1,3.56,74.76,Credit card,71.2,9.2,2019-01-05,Saturday,Laboral,Noche,Promotores,100,0,-0.028864027576577026,Cluster 2
+58,356-44-8813,Mandalay,Normal,Hombre,Home and lifestyle,37.48,3,5.622000000000001,118.062,Credit card,112.44,7.7,2019-01-20,Sunday,Festivo,Mañana,Neutros,0,0,-0.026137938374600208,Cluster 0
+59,218-59-9410,Yangon,Miembro,Mujer,Home and lifestyle,72.42,3,10.863,228.123,Ewallet,217.26,8.2,2019-03-29,Friday,Laboral,Tarde,Neutros,0,0,-0.03853377626373089,Cluster 1
+60,408-26-9866,Naypyitaw,Normal,Mujer,Sports and travel,73.98,7,25.893,543.753,Ewallet,517.86,4.1,2019-03-02,Saturday,Festivo,Tarde,Detractores,-100,0,-0.015432562008613981,Cluster 1
+61,458-61-0011,Mandalay,Normal,Hombre,Food and beverages,60.3,4,12.06,253.26,Cash,241.2,5.8,2019-02-20,Wednesday,Laboral,Noche,Detractores,-100,0,-0.025567501343355503,Cluster 2
+62,339-18-7061,Naypyitaw,Miembro,Mujer,Fashion accessories,92.98,2,9.298,195.258,Credit card,185.96,8.0,2019-02-13,Wednesday,Laboral,Tarde,Neutros,0,0,-0.024887092181614445,Cluster 1
+63,379-17-6588,Naypyitaw,Normal,Hombre,Fashion accessories,59.61,10,29.805,625.905,Cash,596.1,5.3,2019-03-14,Thursday,Laboral,Mañana,Detractores,-100,0,-0.031167743885126886,Cluster 0
+64,470-31-3286,Mandalay,Normal,Hombre,Health and beauty,14.82,3,2.2230000000000003,46.683,Credit card,44.46,8.7,2019-03-01,Friday,Laboral,Mañana,Promotores,100,0,-0.02538140925227006,Cluster 0
+65,152-68-2907,Yangon,Normal,Hombre,Food and beverages,52.2,3,7.83,164.43,Credit card,156.6,9.5,2019-02-15,Friday,Laboral,Mañana,Promotores,100,0,-0.044883283987844746,Cluster 0
+66,318-12-0304,Yangon,Normal,Hombre,Fashion accessories,30.61,1,1.5305,32.1405,Ewallet,30.61,5.2,2019-01-23,Wednesday,Laboral,Mañana,Detractores,-100,0,-0.019531333348926868,Cluster 0
+67,149-61-1929,Yangon,Normal,Hombre,Sports and travel,64.19,10,32.095,673.995,Credit card,641.9,6.7,2019-01-19,Saturday,Laboral,Tarde,Neutros,0,0,-0.02759855573069692,Cluster 1
+68,364-33-8584,Mandalay,Miembro,Mujer,Food and beverages,17.63,5,4.4075,92.5575,Cash,88.15,8.5,2019-03-08,Friday,Laboral,Tarde,Promotores,100,0,-0.032185191086766984,Cluster 1
+69,528-87-5606,Mandalay,Miembro,Mujer,Electronic accessories,39.48,1,1.974,41.45399999999999,Cash,39.48,6.5,2019-02-12,Tuesday,Festivo,Noche,Neutros,0,0,-0.016961271506432674,Cluster 2
+70,800-09-8606,Yangon,Miembro,Mujer,Home and lifestyle,87.37,5,21.8425,458.6925,Cash,436.85,6.6,2019-01-29,Tuesday,Laboral,Noche,Neutros,0,0,-0.013575574509001265,Cluster 2
+71,482-17-1179,Yangon,Miembro,Hombre,Electronic accessories,11.94,3,1.791,37.611,Credit card,35.82,8.1,2019-01-19,Saturday,Laboral,Mañana,Neutros,0,0,-0.023333749095106212,Cluster 0
+72,418-05-0656,Mandalay,Normal,Mujer,Fashion accessories,25.56,7,8.946,187.866,Cash,178.92,7.1,2019-02-02,Saturday,Laboral,Noche,Neutros,0,0,-0.047493040104507216,Cluster 2
+73,137-63-5492,Naypyitaw,Normal,Hombre,Electronic accessories,58.76,10,29.38,616.98,Ewallet,587.6,9.0,2019-01-29,Tuesday,Laboral,Tarde,Promotores,100,0,-0.0059924279320864296,Cluster 1
+74,373-14-0504,Yangon,Miembro,Mujer,Sports and travel,71.63,2,7.1629999999999985,150.423,Ewallet,143.26,8.8,2019-02-12,Tuesday,Festivo,Tarde,Promotores,100,0,-0.026414709844141515,Cluster 1
+75,593-14-4239,Mandalay,Normal,Mujer,Home and lifestyle,95.46,8,38.184,801.8639999999998,Ewallet,763.68,4.7,2019-03-05,Tuesday,Laboral,Noche,Detractores,-100,0,-0.00954861116635175,Cluster 2
+76,629-42-4133,Naypyitaw,Normal,Hombre,Health and beauty,21.8,8,8.72,183.12,Cash,174.4,8.3,2019-02-19,Tuesday,Laboral,Noche,Neutros,0,0,-0.021564999808958433,Cluster 2
+77,307-04-2070,Yangon,Miembro,Mujer,Fashion accessories,30.62,1,1.531,32.151,Credit card,30.62,4.1,2019-02-05,Tuesday,Laboral,Tarde,Detractores,-100,0,-0.019501597589944963,Cluster 1
+78,651-96-5970,Yangon,Normal,Hombre,Fashion accessories,46.41,1,2.3205,48.7305,Credit card,46.41,4.0,2019-03-03,Sunday,Festivo,Noche,Detractores,-100,0,-0.009273842210815064,Cluster 2
+79,832-51-6761,Yangon,Normal,Hombre,Food and beverages,33.88,8,13.552,284.592,Ewallet,271.04,9.6,2019-01-19,Saturday,Laboral,Noche,Promotores,100,0,-0.03775443525070343,Cluster 2
+80,276-75-6884,Yangon,Normal,Mujer,Health and beauty,68.71,3,10.3065,216.4365,Cash,206.13,8.7,2019-03-04,Monday,Laboral,Mañana,Promotores,100,0,-0.0281375624443313,Cluster 0
+81,109-86-4363,Mandalay,Miembro,Mujer,Sports and travel,60.08,7,21.028,441.588,Credit card,420.56,4.5,2019-02-14,Thursday,Laboral,Mañana,Detractores,-100,0,-0.030470100331626008,Cluster 0
+82,222-42-0244,Mandalay,Miembro,Mujer,Health and beauty,72.11,9,32.4495,681.4395,Credit card,648.99,7.7,2019-01-28,Monday,Laboral,Mañana,Neutros,0,0,-0.021842828613411136,Cluster 0
+83,670-71-7306,Mandalay,Normal,Hombre,Sports and travel,44.63,6,13.389,281.16900000000004,Credit card,267.78,5.1,2019-01-02,Wednesday,Laboral,Noche,Detractores,-100,0,-0.03805951367394467,Cluster 2
+84,549-23-9016,Naypyitaw,Miembro,Mujer,Food and beverages,14.87,2,1.487,31.227,Credit card,29.74,8.9,2019-02-13,Wednesday,Laboral,Noche,Promotores,100,0,-0.00862407923936459,Cluster 2
+85,585-90-0249,Yangon,Miembro,Hombre,Electronic accessories,73.26,1,3.663,76.923,Ewallet,73.26,9.7,2019-01-27,Sunday,Festivo,Noche,Promotores,100,0,-0.02030276342318882,Cluster 2
+86,848-95-6252,Naypyitaw,Miembro,Mujer,Home and lifestyle,86.27,1,4.3135,90.5835,Ewallet,86.27,7.0,2019-02-20,Wednesday,Laboral,Mañana,Neutros,0,0,-0.017693022310117268,Cluster 0
+87,152-03-4217,Mandalay,Normal,Mujer,Home and lifestyle,11.28,9,5.0760000000000005,106.596,Credit card,101.52,4.3,2019-03-17,Sunday,Festivo,Mañana,Detractores,-100,0,-0.011382409868481935,Cluster 0
+88,176-78-1170,Naypyitaw,Miembro,Hombre,Health and beauty,33.81,3,5.0715,106.5015,Ewallet,101.43,7.3,2019-01-26,Saturday,Laboral,Tarde,Neutros,0,0,-0.02098159263474086,Cluster 1
+89,166-19-2553,Yangon,Miembro,Hombre,Sports and travel,89.06,6,26.718000000000004,561.078,Cash,534.36,9.9,2019-01-18,Friday,Laboral,Tarde,Promotores,100,0,-0.016561392799651853,Cluster 1
+90,460-93-5834,Yangon,Normal,Hombre,Sports and travel,45.58,7,15.953,335.0130000000001,Cash,319.06,5.0,2019-01-13,Sunday,Festivo,Mañana,Detractores,-100,0,-0.022657090615392228,Cluster 0
+91,146-09-5432,Yangon,Miembro,Hombre,Food and beverages,35.04,9,15.768,331.1280000000001,Ewallet,315.36,4.6,2019-02-09,Saturday,Laboral,Noche,Detractores,-100,0,-0.03730696983770898,Cluster 2
+92,809-69-9497,Yangon,Normal,Mujer,Home and lifestyle,45.68,10,22.84,479.64,Ewallet,456.8,5.7,2019-01-19,Saturday,Laboral,Noche,Detractores,-100,0,-0.020214604165423755,Cluster 2
+93,489-82-1237,Yangon,Normal,Mujer,Electronic accessories,93.88,7,32.858000000000004,690.018,Credit card,657.16,7.3,2019-01-05,Saturday,Laboral,Mañana,Neutros,0,0,-0.012914096869846348,Cluster 0
+94,305-89-2768,Mandalay,Miembro,Mujer,Home and lifestyle,21.9,3,3.285,68.985,Ewallet,65.7,4.7,2019-01-09,Wednesday,Laboral,Noche,Detractores,-100,0,-0.018796862369508168,Cluster 2
+95,430-02-3888,Mandalay,Normal,Hombre,Electronic accessories,46.02,6,13.806,289.926,Cash,276.12,7.1,2019-02-07,Thursday,Laboral,Tarde,Neutros,0,0,-0.03714318777796621,Cluster 1
+96,267-62-7380,Naypyitaw,Miembro,Hombre,Electronic accessories,82.34,10,41.17,864.57,Ewallet,823.4,4.3,2019-03-29,Friday,Laboral,Noche,Detractores,-100,0,-0.003679913159364445,Cluster 2
+97,886-18-2897,Yangon,Normal,Mujer,Food and beverages,56.56,5,14.14,296.94,Credit card,282.8,4.5,2019-03-22,Friday,Laboral,Noche,Detractores,-100,0,-0.03420070814518705,Cluster 2
+98,303-96-2227,Mandalay,Normal,Mujer,Home and lifestyle,97.38,10,48.69,1022.49,Ewallet,973.8,4.4,2019-03-02,Saturday,Festivo,Tarde,Detractores,-100,1,0.014023731157003949,Cluster 1
+99,347-56-2442,Yangon,Normal,Hombre,Home and lifestyle,65.82,1,3.2910000000000004,69.111,Cash,65.82,4.1,2019-02-22,Friday,Laboral,Tarde,Detractores,-100,0,-0.006976136841481018,Cluster 1
